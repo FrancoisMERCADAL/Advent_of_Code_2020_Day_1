@@ -42,9 +42,9 @@ def report_repair_part2():
 
 # TESTS
 ## PART 1
-#print(report_repair_part1())
+print(report_repair_part1())
 # OUTPUT: 485739
 
 ## PART 2
-#print(report_repair_part2())
+print(report_repair_part2())
 # OUTPUT: 161109702
